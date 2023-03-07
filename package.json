@@ -1,0 +1,24 @@
+{
+  "name": "task-list-app-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berand97/task-list-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berand97/task-list-app/issues"
+  },
+  "homepage": "https://github.com/berand97/task-list-app#readme"
+}

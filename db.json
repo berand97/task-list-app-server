@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "name": "Mi tarea de sociales 1",
+      "category": "Ciencias sociales",
+      "description": "Mi tarea de sociales",
+      "tasks": [
+        {
+          "id": 1,
+          "task": "Hacer la maqueta desde cero",
+          "complete": true
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
